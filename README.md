@@ -9,9 +9,9 @@ I love working with modern JavaScript frameworks and integrating real-world APIs
 ## 🚀 Tech Stack  
 **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
 **Backend:** Node.js, Express.js  
-**Database:** MySQL, MongoDB
-**Authentication:** NextAuth.js, Passport.js (OAuth), JWT  
-**Deployment:** Vercel, Render
+**Database:** MySQL, MongoDB  
+**Authentication:** NextAuth.js, Passport.js (OAuth), JWT   
+**Deployment:** Vercel, Render  
 **Tools & Utilities:** Git, GitHub, Axios, REST APIs, Postman, VS Code  
 
 ---
